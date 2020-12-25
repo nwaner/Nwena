@@ -1,4 +1,4 @@
-exports.Token = "NzczOTg2NjgyODA2NDY4NjQw.X6RNRQ.YD_KIPdTvx9PrwP39mPRu87cuC8"; //Bot Token - Important
+exports.Token = "Nzg1NDYxNTI3MDMzMjgyNTY5.X84MDQ.4MBJvBuSyy0EEwUM9gIsWKTmoa4"; //Bot Token - Important
 exports.Owner = "764596916703985734"; //Bot Owner ID - Important
 exports.Default_Prefix = "!"; //Bot Default Prefix (Examples: A!, !)- Important
 exports.Color = "RANDOM"; //Bot All Embeds Color - Use CAPS For Name (Examples: BLUE, RANDOM) - Important
