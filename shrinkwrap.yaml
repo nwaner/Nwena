@@ -6,6 +6,7 @@ dependencies:
   ffmpeg-static: 4.2.7
   fs: 0.0.2
   lyrics-finder: 21.4.0
+  node-fetch: 2.6.1
   scrape-yt: 1.4.7
   wio.db: 4.0.9
   youtube-sr: 2.0.4
@@ -1343,6 +1344,7 @@ specifiers:
   ffmpeg-static: ^4.2.7
   fs: ^0.0.2
   lyrics-finder: ^21.4.0
+  node-fetch: ^2.6.1
   scrape-yt: ^1.4.7
   wio.db: ^4.0.9
   youtube-sr: ^2.0.4
